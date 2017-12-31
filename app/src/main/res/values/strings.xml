@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Japanese Learners</string>
+    <string name="pharses_activity_title">PharsesActivity</string>
+    <string name="family_activity_title">FamilyActivity</string>
+    <string name="numbers_activity_title">NumbersActivity</string>
+    <string name="colors_activity_title">ColorsActivity</string>
+    <string name="colors_activity">Colors</string>
+    <string name="pharses_activity">Pharses</string>
+    <string name="family_activity">Family Membes</string>
+    <string name="numbers_activity">Numbers</string>
+</resources>
